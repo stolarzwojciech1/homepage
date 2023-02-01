@@ -1,4 +1,4 @@
-console.log("Cześć");
+console.log("Cześć jesteśmy razem z git");
 
 let button = document.querySelector(".section__button");
 let body = document.querySelector(".body");
